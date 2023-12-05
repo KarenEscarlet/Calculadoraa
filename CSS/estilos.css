@@ -1,0 +1,5 @@
+.alert.alert-danger {
+    background-color: transparent; /* Establece el fondo como transparente */
+    border-color: #dc3545; /* Puedes ajustar el color del borde según tus preferencias */
+    color: #dc3545; /* Puedes ajustar el color del texto según tus preferencias */
+}
